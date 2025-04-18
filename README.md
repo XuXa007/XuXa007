@@ -40,13 +40,13 @@
 </table>
 
 
- <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
+<summary><h2><b>⭐GitHub stats</b></h2></summary>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=XuXa007&show_icons=true&hide_border=true&bg_color=00000000&theme=calm&icon_color=A3B18A&title_color=C9ADA7&text_color=444444" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuXa007&layout=compact&hide_border=true&bg_color=00000000&theme=calm&title_color=C9ADA7&text_color=444444" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuXa007&layout=compact&hide_border=true&bg_color=00000000&theme=calm&title_color=C9ADA7&text_color=444444&cache_seconds=60" />
+</p>
 
-  </p>
 
 
 ---
